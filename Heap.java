@@ -1,7 +1,4 @@
-/*    _        _     _  
-     /-\  /<  /-\  _/  |-|
-    
-    Author    : Akash Yadav
+/*  Author    : Akash Yadav
     SpaceTime : 20th JAN 2018
 */
 import java.util.*;
