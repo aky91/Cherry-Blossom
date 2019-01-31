@@ -45,11 +45,11 @@ class Ideone{
 
 		private Node rotateRight(Node z){
 			
-			/*		z                 y 
+			/*	    z                 y 
 				   / \               / \
 				  y   T2     -->   T1   z
 				 / \                   / \
-			   T1   x                 x   T2
+			       T1   x                 x   T2
  			*/
 
 			Node y = z.left;
@@ -70,8 +70,8 @@ class Ideone{
 			/*	   z		   		  y
 				  / \     			 / \
 				T1   y   	-->		z   T2
-				    / \   	  	   / \     
-			      x   T2  	     T1   x
+				    / \   	  	       / \     
+			           x   T2  	             T1   x
  			*/
 
 			Node y = z.right;
